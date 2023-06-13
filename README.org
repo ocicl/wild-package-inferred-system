@@ -1,0 +1,10 @@
+* wild-package-inferred-system
+
+introduces wildcard into ASDF package-inferred-system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/privet-kitty/wild-package-inferred-system.git   |
+| commit  | 800b5f8  |
+| systems | wild-package-inferred-system |
+|---------+-------------------------------------------|
+
